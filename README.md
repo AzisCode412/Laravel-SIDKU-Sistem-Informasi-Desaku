@@ -7,8 +7,22 @@
 ## 📺 Demo Video & Gambar
 > [Link Video Demo di YouTube/Google Drive]
 
+Berikut adalah tampilan antarmuka dari Sistem Absensi Perangkat Desa:
+
 ![Dashboard](assets/dashboard.png)
 *Visualisasi data real-time dengan Chart.js*
+
+| Diagram Dashboard | Diagram Dashboard |
+|---|---|
+| ![Home Dashboard](asset/img/halaman%20dashboard%201.1.png) | ![Diagram Dashboard](asset/img/login.png) |
+
+| Absensi Masuk | Laporan Izin |
+|---|---|
+| ![Absensi Masuk](asset/img/absensi-masuk.png) | ![Absen Izin](asset/img/absensi-izin.png) |
+
+| Laporan Bulanan | Halaman Utama |
+|---|---|
+| ![Laporan Bulanan](asset/img/laporan.png) | ![Halaman Utama](asset/img/home.png) |x`
 
 ---
 
