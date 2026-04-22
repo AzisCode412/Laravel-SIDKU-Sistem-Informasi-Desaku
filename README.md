@@ -1,13 +1,17 @@
-# 🏘️ Sistem Informasi Desaku (SID-KU) - Laravel
+# 🏘️ Sistem Informasi Desaku (SIDKU) - Laravel
 
 **SIDKU** adalah solusi digital untuk manajemen kependudukan dan administrasi desa yang efisien, transparan, dan modern.
+
+---
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📺 Demo Video & Gambar
 > [Link Video Demo di YouTube/Google Drive]
 
-Berikut adalah tampilan antarmuka dari Sistem Absensi Perangkat Desa:
+Berikut adalah tampilan antarmuka dari Sistem Informasi Desaku:
 
 | Diagram Dashboard | Diagram Dashboard |
 |---|---|
