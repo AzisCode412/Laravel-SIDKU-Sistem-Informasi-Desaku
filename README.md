@@ -7,7 +7,7 @@
 ## 📺 Demo Video & Gambar
 > [Link Video Demo di YouTube/Google Drive]
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](asset/dashboard.png)
 *Visualisasi data real-time dengan Chart.js*
 
 ---
