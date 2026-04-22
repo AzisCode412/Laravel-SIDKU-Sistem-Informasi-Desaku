@@ -54,3 +54,5 @@ Repositori ini hanya berisi dokumentasi dan demo. Untuk mendapatkan **Source Cod
 * Database Schema (.sql).
 * Panduan Instalasi Lengkap.
 * Konsultasi/Support jika ada kendala instalasi.
+
+Copyright © 2026 **Zen Al Azis**. All rights reserved.
