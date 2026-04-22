@@ -1,4 +1,4 @@
-# 🏘️ Sistem Informasi Desaku (SIDKU) - Laravel
+# 🏘️ Laravel-Sistem Informasi Desaku (SIDKU)
 
 **SIDKU** adalah solusi digital untuk manajemen kependudukan dan administrasi desa yang efisien, transparan, dan modern.
 
