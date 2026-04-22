@@ -11,15 +11,19 @@ Berikut adalah tampilan antarmuka dari Sistem Absensi Perangkat Desa:
 
 | Diagram Dashboard | Diagram Dashboard |
 |---|---|
-| ![Home Dashboard](assets/dashboard.png) | ![Diagram Dashboard](assets/halaman-daftar-penduduk.png) |
+| ![Home Dashboard](assets/dashboard.png) | ![Diagram Dashboard](assets/halaman-dashbord.png) |
 
-| Absensi Masuk | Laporan Izin |
+| Input Penduduk |  Daftar Penduduk |
 |---|---|
-| ![Absensi Masuk](asset/img/absensi-masuk.png) | ![Absen Izin](asset/img/absensi-izin.png) |
+| ![Input Penduduk](assets/halaman-tambah-data-penduduk.png) | ![Daftar Penduduk](assets/halaman-daftar-penduduk.png) |
 
-| Laporan Bulanan | Halaman Utama |
+| Daftar Keluarga | Input Dan Laporan Surat |
 |---|---|
-| ![Laporan Bulanan](asset/img/laporan.png) | ![Halaman Utama](asset/img/home.png) |x`
+| ![Daftar Kartu Keluarga](assets/halaman-dashbord-daftar-keluarga.png) | ![Input Surat Dan Daftar Surat Yang Telah Di Buat](assets/halaman-pembuatan-dan-daftar-surat-yang-pernah-dibuat.png) |
+
+| Daftar Keluarga |
+|---|
+![Home Dashboard](assets/halaman-laporan-kependudukan.png)|x`
 
 ---
 
