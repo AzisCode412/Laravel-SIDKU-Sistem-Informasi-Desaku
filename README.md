@@ -11,7 +11,7 @@ Berikut adalah tampilan antarmuka dari Sistem Absensi Perangkat Desa:
 
 | Diagram Dashboard | Diagram Dashboard |
 |---|---|
-| ![Home Dashboard](assets/dashboard.png) | ![Diagram Dashboard](assets/halaman-dashboard.png) |
+| ![Home Dashboard](assets/dashboard.png) | ![Diagram Dashboard](assets/dashboard.png) |
 
 | Absensi Masuk | Laporan Izin |
 |---|---|
