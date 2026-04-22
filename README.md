@@ -25,9 +25,9 @@ Berikut adalah tampilan antarmuka dari Sistem Informasi Desaku:
 |---|---|
 | ![Daftar Kartu Keluarga](assets/halaman-dashbord-daftar-keluarga.png) | ![Input Surat Dan Daftar Surat Yang Telah Di Buat](assets/halaman-pembuatan-dan-daftar-surat-yang-pernah-dibuat.png) |
 
-| Daftar Keluarga |
+|Laporan Kependudukan |
 |---|
-![Home Dashboard](assets/halaman-laporan-kependudukan.png)|x`
+![Home Dashboard](assets/halaman-laporan-kependudukan.png)|
 
 ---
 
@@ -36,6 +36,10 @@ Berikut adalah tampilan antarmuka dari Sistem Informasi Desaku:
 * **Automasi Surat:** Cetak surat keterangan/pengantar otomatis.
 * **Statistik Visual:** Dashboard statistik penduduk (Pekerjaan, Umur, Jenis Kelamin).
 * **Export PDF:** Hasil dokumen profesional menggunakan DomPDF.
+* **Manajemen Data Warga:** CRUD data kependudukan yang cepat dan valid.
+* **Statistik Real-time:** Visualisasi data menggunakan Chart.js.
+* **Cetak Surat Otomatis:** Generasi dokumen PDF (Surat Pengantar, dll) dengan DomPDF.
+* **Laporan Excel:** Ekspor data penduduk ke format spreadsheet.
 
 ---
 
@@ -44,6 +48,18 @@ Berikut adalah tampilan antarmuka dari Sistem Informasi Desaku:
 * **Database:** MySQL
 * **UI:** Tailwind CSS / Bootstrap
 * **Charts:** Chart.js
+
+---
+
+## 📦 Cara Instalasi
+
+1. Clone repository: `git clone https://github.com/AzisCode412/Laravel-SIDKU-Sistem-Informasi-Desaku.git`
+2. Masuk ke folder: `cd Laravel-SIDKU-Sistem-Informasi-Desaku`
+3. Install dependencies: `composer install` & `npm install`
+4. Copy .env: `cp .env.example .env`
+5. Generate key: `php artisan key:generate`
+6. Migrasi database: `php artisan migrate --seed`
+7. Jalankan: `php artisan serve`
 
 ---
 
