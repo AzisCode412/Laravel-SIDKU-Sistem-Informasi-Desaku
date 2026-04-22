@@ -13,7 +13,7 @@
 
 Berikut adalah tampilan antarmuka dari Sistem Informasi Desaku:
 
-| Diagram Dashboard | Diagram Dashboard |
+| Halaman Dashboard | Diagram Dashboard |
 |---|---|
 | ![Home Dashboard](assets/dashboard.png) | ![Diagram Dashboard](assets/halaman-dashbord.png) |
 
