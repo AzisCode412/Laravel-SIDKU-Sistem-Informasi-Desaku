@@ -9,8 +9,6 @@
 
 Berikut adalah tampilan antarmuka dari Sistem Absensi Perangkat Desa:
 
-![Dashboard](assets/dashboard.png)
-
 | Diagram Dashboard | Diagram Dashboard |
 |---|---|
 | ![Home Dashboard](assets/dashboard.png) | ![Diagram Dashboard](assets/halaman%20dashboard%201.1.png) |
