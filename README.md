@@ -66,9 +66,9 @@ Berikut adalah tampilan antarmuka dari Sistem Informasi Desaku:
 ## 💰 Cara Mendapatkan Source Code
 Repositori ini hanya berisi dokumentasi dan demo. Untuk mendapatkan **Source Code Lengkap (Full Access)**, Anda dapat menghubungi saya melalui jalur berikut:
 
-1. Instagram:** [@zenalazis.dev](https://instagram.com/zenalazis.dev) (Respon Cepat)
-* **Portofolio Lain:** [AzisCode412 GitHub](https://github.com/AzisCode412) **Note:** Kirim pesan melalui profil atau minta akses (Request Access).
-* **Linkedln:** [Zen Al Azis Linkedln](https://linkedin.com/in/zenalazis).
+1. **Instagram:** [@zenalazis.dev](https://instagram.com/zenalazis.dev) (Respon Cepat)
+2. **Portofolio Lain:** [AzisCode412 GitHub](https://github.com/AzisCode412) **Note:** Kirim pesan melalui profil atau minta akses (Request Access).
+3. **Linkedln:** [Zen Al Azis Linkedln](https://linkedin.com/in/zenalazis).
 
 **Apa yang Anda dapatkan?**
 * Full Source Code (Laravel Project).
